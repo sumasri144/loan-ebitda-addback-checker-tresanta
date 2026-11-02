@@ -1,0 +1,19 @@
+{
+  "verdict": "AGREES",
+  "covenant_ebitda": "2000",
+  "claimed": "2000",
+  "delta": "0",
+  "low": "2000",
+  "high": "2000",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "0",
+  "excluded_sum": "0",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R4": "ELIGIBLE_CAPPED_GROUP",
+    "R9": "ELIGIBLE"
+  },
+  "_title": "Capped add-back comfortably within the limit",
+  "cap_base_confirmed": true
+}

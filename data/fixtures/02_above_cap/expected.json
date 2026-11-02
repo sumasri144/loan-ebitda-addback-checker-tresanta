@@ -1,0 +1,18 @@
+{
+  "verdict": "DISCREPANCY",
+  "covenant_ebitda": "2070",
+  "claimed": "2300",
+  "delta": "230",
+  "low": "2070",
+  "high": "2070",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "230",
+  "excluded_sum": "0",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R4": "ELIGIBLE_CAPPED_GROUP"
+  },
+  "_title": "Capped add-back over the limit, excess disallowed",
+  "cap_base_confirmed": true
+}

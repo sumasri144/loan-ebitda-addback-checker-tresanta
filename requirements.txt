@@ -1,0 +1,8 @@
+# Runtime: none.  The engine, the document handling, the anchor verifier and
+# mock mode are standard library only (Python 3.11+).
+#
+# Required only for `--mode api`, once the extraction layer exists:
+# anthropic
+#
+# Tests run with the standard library:
+#   python -m unittest discover -s tests -t . -v

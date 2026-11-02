@@ -1,0 +1,133 @@
+{
+  "_note": "HAND-WRITTEN fixture data. The LLM extraction layer does not exist and has never been run. This file stands in for its output so the deterministic engine can be exercised end to end from documents.",
+  "agreement": {
+    "agreement_id": "03",
+    "defined_term_name": "Consolidated EBITDA",
+    "base_metric": "Consolidated Net Income",
+    "base_metric_quote": "\"Consolidated Net Income\" means the consolidated net income of the Group",
+    "categories": [
+      {
+        "id": "interest_expense",
+        "label": "Consolidated Interest Expense",
+        "quote": "(a) Consolidated Interest Expense;",
+        "cap_group": null
+      },
+      {
+        "id": "income_taxes",
+        "label": "Provision for income taxes",
+        "quote": "(b) the provision for income taxes;",
+        "cap_group": null
+      },
+      {
+        "id": "depreciation_amortisation",
+        "label": "Depreciation and amortisation",
+        "quote": "(c) depreciation and amortisation expense; and",
+        "cap_group": null
+      },
+      {
+        "id": "restructuring_charges",
+        "label": "Restructuring Charges",
+        "quote": "(d) Restructuring Charges;",
+        "cap_group": "cg_1"
+      },
+      {
+        "id": "disposal_gains",
+        "label": "Non-recurring disposal gains",
+        "quote": "(e) non-recurring gains arising on the disposal of fixed assets.",
+        "cap_group": null
+      }
+    ],
+    "cap_groups": [
+      {
+        "id": "cg_1",
+        "members": [
+          "restructuring_charges"
+        ],
+        "cap_type": "PERCENT_OF_BASE",
+        "cap_base": "BASE_PLUS_UNCAPPED_PERMITTED",
+        "cap_value": "0.15",
+        "base_quote": "determined before giving effect to any amount added back under clause (d)"
+      }
+    ]
+  },
+  "reconciliation": {
+    "borrower": "Cranmore Tooling Limited",
+    "period": "Q2 FY2026",
+    "currency": "GBP",
+    "scale": "THOUSANDS",
+    "sign_convention": "SIGNED_EXPLICIT",
+    "starting_label": "Consolidated Net Income",
+    "starting_amount": "1000",
+    "starting_quote": "Consolidated Net Income 1,000",
+    "stated_adjusted_ebitda": "2350",
+    "stated_quote": "Adjusted EBITDA as reported 2,350",
+    "lines": [
+      {
+        "id": "R1",
+        "row": 1,
+        "description": "Interest expense, net",
+        "amount": "400",
+        "presentation": "ADDITION",
+        "quote": "Interest expense, net 400",
+        "category": "interest_expense",
+        "confidence": "HIGH",
+        "justification_quote": "(a) Consolidated Interest Expense;"
+      },
+      {
+        "id": "R2",
+        "row": 2,
+        "description": "Provision for income taxes",
+        "amount": "200",
+        "presentation": "ADDITION",
+        "quote": "Provision for income taxes 200",
+        "category": "income_taxes",
+        "confidence": "HIGH",
+        "justification_quote": "(b) the provision for income taxes;"
+      },
+      {
+        "id": "R3",
+        "row": 3,
+        "description": "Depreciation and amortisation",
+        "amount": "300",
+        "presentation": "ADDITION",
+        "quote": "Depreciation and amortisation 300",
+        "category": "depreciation_amortisation",
+        "confidence": "HIGH",
+        "justification_quote": "(c) depreciation and amortisation expense; and"
+      },
+      {
+        "id": "R4",
+        "row": 4,
+        "description": "Restructuring charges - Hollinwood closure",
+        "amount": "200",
+        "presentation": "ADDITION",
+        "quote": "Restructuring charges - Hollinwood closure 200",
+        "category": "restructuring_charges",
+        "confidence": "HIGH",
+        "justification_quote": "(d) Restructuring Charges;"
+      },
+      {
+        "id": "R5",
+        "row": 5,
+        "description": "Owner remuneration normalisation",
+        "amount": "350",
+        "presentation": "ADDITION",
+        "quote": "Owner remuneration normalisation 350",
+        "category": "NOT_PERMITTED",
+        "confidence": "HIGH",
+        "justification_quote": "are the only adjustments permitted in the calculation of Consolidated EBITDA"
+      },
+      {
+        "id": "R9",
+        "row": 9,
+        "description": "Gain on disposal of surplus plant",
+        "amount": "-100",
+        "presentation": "DEDUCTION",
+        "quote": "Gain on disposal of surplus plant -100",
+        "category": "disposal_gains",
+        "confidence": "HIGH",
+        "justification_quote": "(e) non-recurring gains arising on the disposal of fixed assets."
+      }
+    ]
+  }
+}

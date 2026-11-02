@@ -1,0 +1,21 @@
+{
+  "verdict": "INSUFFICIENT_INFORMATION",
+  "covenant_ebitda": "1800",
+  "claimed": "2000",
+  "delta": "200",
+  "low": "1800",
+  "high": "2000",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "0",
+  "excluded_sum": "0",
+  "review_sum": "200",
+  "line_verdicts": {
+    "R4": "NEEDS_REVIEW"
+  },
+  "required_flags": [
+    "LINE_NEEDS_REVIEW"
+  ],
+  "_title": "The clause quoted to justify a line is not in the agreement, so that line goes to review",
+  "cap_base_confirmed": true
+}

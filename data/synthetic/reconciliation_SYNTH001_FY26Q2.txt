@@ -1,0 +1,47 @@
+SYNTHETIC DOCUMENT - NOT A REAL BORROWER RECONCILIATION
+Fictional borrower, invented figures. See data/synthetic/MANIFEST.md.
+
+================================================================================
+RECONCILIATION OF CONSOLIDATED NET INCOME TO CONSOLIDATED EBITDA
+Delivered under Section 6.01 of the Senior Facilities Agreement AGR-SYNTH-001
+================================================================================
+
+BORROWER:         Northwind Components Holdings Limited (fictional)
+AGREEMENT:        AGR-SYNTH-001
+PERIOD:           Q2 FY2026 - three months ended 30 June 2026
+CURRENCY:         GBP
+SCALE:            THOUSANDS
+SIGN CONVENTION:  SIGNED_EXPLICIT (additions positive, deductions negative)
+
+--------------------------------------------------------------------------------
+ROW  PRESENTATION  DESCRIPTION                                          AMOUNT
+--------------------------------------------------------------------------------
+  0  STARTING      Consolidated Net Income                               4,200
+  1  ADDITION      Interest expense, net                                 1,850
+  2  ADDITION      Provision for income taxes                            1,120
+  3  ADDITION      Depreciation and amortisation                         3,400
+  4  ADDITION      Share-based compensation (non-cash)                     640
+  5  ADDITION      Restructuring charges - Sanderstead site closure       1,500
+  6  ADDITION      Projected cost savings - procurement programme           900
+  7  DEDUCTION     Gain on disposal of surplus plant                       -750
+--------------------------------------------------------------------------------
+     TOTAL         Adjusted EBITDA as reported                          12,860
+--------------------------------------------------------------------------------
+
+NOTES TO THE RECONCILIATION
+
+Row 4  The share-based compensation charge for the period is wholly non-cash.
+
+Row 5  Restructuring charges relate to the closure of the Sanderstead site
+       announced in March 2026. The charge comprises cash redundancy costs and
+       non-cash asset write-downs.
+
+Row 6  Projected cost savings relate to the procurement consolidation
+       programme committed to in May 2026. Management expects these savings to
+       be realised within 9 months of the period end.
+
+Row 7  The gain on disposal of surplus plant at the Hollinwood facility is
+       non-recurring and is deducted in arriving at Consolidated EBITDA.
+
+Signed for and on behalf of the Borrower.
+================================================================================

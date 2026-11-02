@@ -1,0 +1,18 @@
+{
+  "verdict": "AGREES",
+  "covenant_ebitda": "2070",
+  "claimed": "2070",
+  "delta": "0",
+  "low": "2070",
+  "high": "2070",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "0",
+  "excluded_sum": "0",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R4": "ELIGIBLE_CAPPED_GROUP"
+  },
+  "_title": "The claim is exactly equal to the limit, so it is allowed in full",
+  "cap_base_confirmed": true
+}

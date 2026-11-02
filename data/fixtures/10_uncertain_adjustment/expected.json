@@ -1,0 +1,21 @@
+{
+  "verdict": "INSUFFICIENT_INFORMATION",
+  "covenant_ebitda": "2000",
+  "claimed": "2300",
+  "delta": "300",
+  "low": "2000",
+  "high": "2070",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "0",
+  "excluded_sum": "0",
+  "review_sum": "300",
+  "line_verdicts": {
+    "R5": "NEEDS_REVIEW"
+  },
+  "required_flags": [
+    "LINE_NEEDS_REVIEW"
+  ],
+  "_title": "An unclear description cannot be matched to a category; the answer is a range, and the limit damps the uncertainty",
+  "cap_base_confirmed": true
+}

@@ -1,0 +1,21 @@
+{
+  "verdict": "DISCREPANCY",
+  "covenant_ebitda": "2000",
+  "claimed": "2350",
+  "delta": "350",
+  "low": "2000",
+  "high": "2000",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "0",
+  "excluded_sum": "350",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R5": "NOT_ELIGIBLE_UNPERMITTED"
+  },
+  "line_effects": {
+    "R5": "DECREASE"
+  },
+  "_title": "An addition the agreement does not permit at all",
+  "cap_base_confirmed": true
+}

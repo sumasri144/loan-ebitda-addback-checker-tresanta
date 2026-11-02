@@ -1,0 +1,9 @@
+{
+  "verdict": "INSUFFICIENT_INFORMATION",
+  "recomputation": null,
+  "required_flags": [
+    "ANCHOR_INVALID"
+  ],
+  "_title": "The reported total has no supporting quote, so no figure is produced",
+  "cap_base_confirmed": true
+}

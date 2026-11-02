@@ -1,0 +1,20 @@
+{
+  "verdict": "AGREES",
+  "covenant_ebitda": "2020",
+  "claimed": "2020",
+  "delta": "0",
+  "low": "2020",
+  "high": "2020",
+  "base": "1800",
+  "cap": "270",
+  "group_included": "220",
+  "disallowed_total": "0",
+  "excluded_sum": "0",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R4": "ELIGIBLE_CAPPED_GROUP",
+    "R5": "ELIGIBLE_CAPPED_GROUP"
+  },
+  "_title": "Plus and minus amounts inside the capped group; the net is under the limit so nothing is disallowed",
+  "cap_base_confirmed": true
+}

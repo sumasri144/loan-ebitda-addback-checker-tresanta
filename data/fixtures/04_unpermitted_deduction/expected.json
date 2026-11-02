@@ -1,0 +1,22 @@
+{
+  "verdict": "DISCREPANCY",
+  "covenant_ebitda": "2000",
+  "claimed": "1750",
+  "delta": "-250",
+  "low": "2000",
+  "high": "2000",
+  "base": "1800",
+  "cap": "270",
+  "disallowed_total": "0",
+  "excluded_sum": "-250",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R5": "NOT_ELIGIBLE_UNPERMITTED"
+  },
+  "line_effects": {
+    "R5": "INCREASE"
+  },
+  "covenant_above_claimed": true,
+  "_title": "A deduction the agreement does not require, so the allowed figure is HIGHER than the borrower's",
+  "cap_base_confirmed": true
+}

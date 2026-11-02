@@ -1,0 +1,18 @@
+{
+  "verdict": "AGREES",
+  "covenant_ebitda": "2700",
+  "claimed": "2700",
+  "delta": "0",
+  "low": "2700",
+  "high": "2700",
+  "base": "2700",
+  "disallowed_total": "0",
+  "excluded_sum": "0",
+  "review_sum": "0",
+  "line_verdicts": {
+    "R4": "ELIGIBLE"
+  },
+  "no_cap_groups": true,
+  "_title": "The agreement sets no limit, so nothing is disallowed and no cap base needs confirming",
+  "cap_base_confirmed": false
+}

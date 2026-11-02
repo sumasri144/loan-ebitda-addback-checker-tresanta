@@ -1,0 +1,42 @@
+SYNTHETIC EXTRACT FOR FIXTURE TESTING - NOT A REAL CREDIT AGREEMENT
+Made-up terms, fictional parties, invented figures. For testing only.
+
+SECTION 1.01  DEFINED TERMS
+
+"Consolidated EBITDA" means, for any Measurement Period, Consolidated Net
+Income for that Measurement Period:
+
+  plus, in each case to the extent deducted in arriving at Consolidated Net
+  Income and without duplication:
+
+    (a) Consolidated Interest Expense;
+    (b) the provision for income taxes;
+    (c) depreciation and amortisation expense; and
+    (d) Restructuring Charges;
+
+  and minus, to the extent included in arriving at Consolidated Net Income:
+
+    (e) non-recurring gains arising on the disposal of fixed assets.
+
+  The adjustments set out in clauses (a) to (e) above are the only adjustments
+  permitted in the calculation of Consolidated EBITDA. No other adjustment,
+  normalisation or pro forma item may be taken into account.
+
+  provided that the aggregate amount added back pursuant to clause (d) in
+  respect of any Measurement Period shall not exceed fifteen per cent. (15%)
+  of the Capped Adjustment Base for that Measurement Period, and any excess
+  over that amount shall be disregarded.
+
+"Capped Adjustment Base" means, for any Measurement Period, Consolidated Net
+Income for that Measurement Period plus the aggregate net amount of the
+adjustments permitted under clauses (a), (b), (c) and (e) of the definition of
+Consolidated EBITDA, determined before giving effect to any amount added back
+under clause (d).
+
+"Restructuring Charges" means charges, provisions and expenses (whether cash
+or non-cash) incurred in connection with the closure, consolidation or
+reorganisation of any facility, business line or workforce of the Group.
+
+"Consolidated Net Income" means the consolidated net income of the Group for
+the relevant Measurement Period, determined in accordance with the Accounting
+Principles.

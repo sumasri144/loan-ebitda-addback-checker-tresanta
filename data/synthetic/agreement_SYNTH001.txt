@@ -1,0 +1,90 @@
+SYNTHETIC DOCUMENT - NOT A REAL CREDIT AGREEMENT
+Fictional borrower, fictional lender, invented figures. Drafted for testing
+only. Not legal drafting and not advice. See data/synthetic/MANIFEST.md.
+
+================================================================================
+SENIOR FACILITIES AGREEMENT (EXTRACT)
+Agreement reference: AGR-SYNTH-001
+Borrower: Northwind Components Holdings Limited (fictional)
+Lender: Ravensbourne Credit Partners II LP (fictional)
+Dated: 14 January 2026
+================================================================================
+
+SECTION 1.01  DEFINED TERMS
+
+"Consolidated EBITDA" means, in respect of any Measurement Period,
+Consolidated Net Income for that Measurement Period:
+
+  plus, in each case to the extent deducted in arriving at Consolidated Net
+  Income and without duplication:
+
+    (a) Consolidated Interest Expense;
+    (b) the provision for income taxes;
+    (c) depreciation and amortisation expense;
+    (d) share-based compensation expense, provided that only non-cash
+        share-based compensation expense may be added back pursuant to this
+        clause (d);
+    (e) Restructuring Charges; and
+    (f) Projected Cost Savings;
+
+  and minus, in each case to the extent included in arriving at Consolidated
+  Net Income:
+
+    (g) non-recurring gains arising on the disposal of fixed assets.
+
+  The adjustments set out in clauses (a) to (g) above are the only adjustments
+  permitted in the calculation of Consolidated EBITDA. No other adjustment,
+  normalisation or pro forma item may be taken into account.
+
+  provided that the aggregate amount added back pursuant to clause (e) and
+  clause (f) together in respect of any Measurement Period shall not exceed
+  fifteen per cent. (15%) of the Capped Adjustment Base for that Measurement
+  Period, and any excess over that amount shall be disregarded.
+
+"Capped Adjustment Base" means, in respect of any Measurement Period,
+Consolidated Net Income for that Measurement Period plus the aggregate net
+amount of the adjustments permitted under clauses (a), (b), (c), (d) and (g)
+of the definition of Consolidated EBITDA, determined before giving effect to
+any amount added back under clause (e) or clause (f). For the avoidance of
+doubt, the Capped Adjustment Base is calculated without reference to any
+amount added back under clause (e) or clause (f), and the deduction required
+by clause (g) reduces the Capped Adjustment Base.
+
+"Restructuring Charges" means charges, provisions and expenses (whether cash
+or non-cash) incurred in connection with the closure, consolidation or
+reorganisation of any facility, business line or workforce of the Group.
+
+"Projected Cost Savings" means cost savings and operating expense reductions
+that are reasonably identifiable and factually supportable, projected by the
+Borrower in good faith to result from actions taken or committed to be taken,
+provided that such cost savings are reasonably expected to be realised within
+twelve (12) months following the end of the relevant Measurement Period.
+
+"Consolidated Net Income" means the consolidated net income of the Group for
+the relevant Measurement Period, determined in accordance with the Accounting
+Principles.
+
+"Measurement Period" means each period of three consecutive months ending on
+31 March, 30 June, 30 September or 31 December.
+
+SECTION 6.01  FINANCIAL REPORTING
+
+The Borrower shall deliver to the Lender, within forty-five (45) days after
+the end of each Measurement Period, a reconciliation of Consolidated Net
+Income to Consolidated EBITDA for that Measurement Period, prepared in the
+form of Schedule 3 (Reconciliation Format) and signed by a director.
+
+SCHEDULE 3  RECONCILIATION FORMAT
+
+Each reconciliation delivered under Section 6.01 shall state, in the header of
+the document, the currency, the units scale, and the sign convention applied.
+Amounts shall be stated using the SIGNED_EXPLICIT convention, meaning that
+every amount which increases Consolidated EBITDA is stated as a positive
+number and every amount which reduces Consolidated EBITDA is stated as a
+negative number, and that the stated presentation label of each line shall
+agree with the sign of its amount. Parenthesised negatives, separate "Add" and
+"Less" columns, and absolute values are not an acceptable presentation.
+
+================================================================================
+END OF EXTRACT
+================================================================================

@@ -1,0 +1,27 @@
+SYNTHETIC BORROWER RECONCILIATION - FIXTURE 04_unpermitted_deduction
+Made-up figures, fictional borrower. For testing only.
+
+==============================================================================
+RECONCILIATION OF CONSOLIDATED NET INCOME TO CONSOLIDATED EBITDA
+==============================================================================
+
+BORROWER:         Dunsmore Castings Limited (fictional)
+PERIOD:           Q2 FY2026 - three months ended 30 June 2026
+CURRENCY:         GBP
+SCALE:            THOUSANDS
+SIGN CONVENTION:  SIGNED_EXPLICIT (additions positive, deductions negative)
+
+------------------------------------------------------------------------------
+ROW  PRESENTATION  DESCRIPTION                                      AMOUNT
+------------------------------------------------------------------------------
+  0  STARTING      Consolidated Net Income                             1,000
+  1  ADDITION      Interest expense, net                                 400
+  2  ADDITION      Provision for income taxes                            200
+  3  ADDITION      Depreciation and amortisation                         300
+  4  ADDITION      Restructuring charges - Hollinwood closure            200
+  5  DEDUCTION     Voluntary warranty provision top-up                  -250
+  9  DEDUCTION     Gain on disposal of surplus plant                    -100
+------------------------------------------------------------------------------
+     TOTAL         Adjusted EBITDA as reported                         1,750
+------------------------------------------------------------------------------
+

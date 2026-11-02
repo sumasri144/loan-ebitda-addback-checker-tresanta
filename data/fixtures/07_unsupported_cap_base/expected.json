@@ -1,0 +1,9 @@
+{
+  "verdict": "INSUFFICIENT_INFORMATION",
+  "recomputation": null,
+  "required_flags": [
+    "CAP_BASE_UNSUPPORTED"
+  ],
+  "_title": "The limit is a percentage of total assets, a base this engine does not support, so it refuses rather than guessing",
+  "cap_base_confirmed": true
+}

@@ -1,0 +1,9 @@
+{
+  "verdict": "INSUFFICIENT_INFORMATION",
+  "recomputation": null,
+  "required_flags": [
+    "SIGN_PRESENTATION_MISMATCH"
+  ],
+  "_title": "A row labelled as an addition carries a negative amount, so the run stops",
+  "cap_base_confirmed": true
+}
